@@ -2,7 +2,9 @@
 # World of Warcraft: Money Conversion
 Just something I threw together in Node JavaScript for a project I was making, I found Lua, C# and different ways to convert a string of like (**2000000**) to 200g 00s 00c but couldn't ever find anything written in JavaScript, so I took it upon myself to learn little bit of something and made this.
 
-I know it's probably really simple to achieve or do, but I'm not a expert into coding / JavaScript, really just a beginner and I know it'll probably come to some use for others who don't know, feel free to do whatever to this.
+I know it's probably really simple to achieve or do, but I'm not a expert into coding / JavaScript, really just a beginner and I know it'll probably come to some use for others who don't know, feel free to do whatever to this, only primary reason I put this here is to save it for later so I don't have to open a different project or try figuring this out again later when I need it for something. 
+
+This probably won't be useful if you're making a addon, so I'd suggest looking into the Lua field of things or whatever language you're making the addon.
 
     function convertMoney(m){
         
